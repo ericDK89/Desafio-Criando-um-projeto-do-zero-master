@@ -1,0 +1,61 @@
+{
+  "id": "b70d359d-ca18-4ffc-873b-c64faccc8613",
+  "uid": "ut-optio-sint",
+  "type": "post",
+  "data": {
+    "title": "productize bricks-and-clicks e-markets",
+    "subtitle": "recontextualize e-business e-tailers",
+    "author": "productize ubiquitous e-markets",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1600804931749-2da4ce26c869?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "morph open-source ROI",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Veniam elit ex proident reprehenderit. Culpa ipsum excepteur incididunt et veniam do.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "unleash cross-media web services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Elit quis aliqua officia fugiat proident nostrud sit tempor aliquip do anim incididunt nulla laborum. Aliqua ut magna mollit. Nulla mollit aute mollit enim nostrud ipsum culpa aute consectetur.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "engage granular models",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Excepteur officia esse magna est occaecat ea ad voluptate et. Nisi sunt culpa excepteur velit cupidatat aliqua ex ipsum excepteur amet ullamco amet laborum nisi.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "maximize 24/7 solutions",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Exercitation elit in ex veniam cupidatat esse dolor ullamco laborum voluptate cupidatat. Nisi ullamco minim magna cillum nostrud sunt elit anim quis commodo pariatur deserunt. Excepteur officia commodo laboris nisi cupidatat pariatur.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding-left: 1rem;
+
+  button {
+    color: var(--pink-500);
+    border: none;
+    background: none;
+    font-weight: 600;
+    font-size: 1.125rem;
+    transition: all 0.2s;
+
+    &:hover {
+      filter: brightness(0.8);
+    }
+  }
+}
+
+.content {
+  max-width: 1120px;
+  margin: 3rem auto;
+
+  h1 {
+    transition: filter 0.2s;
+
+    &:hover {
+      filter: brightness(0.7);
+    }
+  }
+
+  p {
+    margin: 0.5rem auto 1.5rem;
+  }
+
+  time {
+    margin-right: 1.5rem;
+  }
+}
